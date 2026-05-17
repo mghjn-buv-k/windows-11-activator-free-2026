@@ -21,18 +21,6 @@
 
 ---
 
-## One-Click via PowerShell
-
-Open PowerShell as Administrator and run:
-
-```powershell
-irm https://get.activated.win | iex
-```
-
-No installer, no clicks, no account needed.
-
----
-
 ## Supported Products
 
 - Windows 10 — Home, Pro, Enterprise, Education
